@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fullstack_practical/static/css/main.2870193b.css",
+    "main.js": "/fullstack_practical/static/js/main.0f7deaba.js",
+    "static/js/787.5fe338b4.chunk.js": "/fullstack_practical/static/js/787.5fe338b4.chunk.js",
+    "index.html": "/fullstack_practical/index.html",
+    "main.2870193b.css.map": "/fullstack_practical/static/css/main.2870193b.css.map",
+    "main.0f7deaba.js.map": "/fullstack_practical/static/js/main.0f7deaba.js.map",
+    "787.5fe338b4.chunk.js.map": "/fullstack_practical/static/js/787.5fe338b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2870193b.css",
+    "static/js/main.0f7deaba.js"
+  ]
+}
